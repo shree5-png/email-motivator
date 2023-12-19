@@ -6,18 +6,21 @@
 
 >**To Get Started:**
 
-`npm install`
-
 *Make your .env file like this*
 
 `MONGO_URI = <-uri string->`<br>
 `USER = <-your gmail->`<br>
-`PASS = <-application pass from 2step verification->`
+`PASS = <-application pass from 2step verification->`<br>
+
+>**To Run**
+
+`npm install`<br>
+`npm start`<br>
 
 
->How it works
+>**How it works**
 
-**To Run**<br>
+**Home**<br>
 `localhost::5000`
 
 **To Enter Mail**<br>
@@ -26,4 +29,4 @@
 **To send Motivational Quotes**<br>
 `localhost::5000/motivator/send`
 
-**Note:**<br>
+
