@@ -4,7 +4,7 @@
 
 
 
->TO Get Started:
+>**To Get Started:**
 
 `npm install`
 
