@@ -1,6 +1,6 @@
 # Motivator
 
-### Enter an email, and it will sent an motivational quotes
+### Enter an email, and it will send an motivational quotes
 
 
 
