@@ -27,6 +27,6 @@
 `localhost::5000/<-your mail->`
 
 **To send Motivational Quotes**<br>
-`localhost::5000/motivator/send`
+`localhost::5000/motivate/send`
 
 
