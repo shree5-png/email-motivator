@@ -15,6 +15,8 @@
 >**To Run**
 
 `npm install`<br>
+
+`npm start goodies.js`<br>
 `npm start`<br>
 
 
