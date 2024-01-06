@@ -16,7 +16,7 @@
 
 `npm install`<br>
 
-`npm start goodies.js`<br>
+`node pushGoodies.js`<br>
 `npm start`<br>
 
 
